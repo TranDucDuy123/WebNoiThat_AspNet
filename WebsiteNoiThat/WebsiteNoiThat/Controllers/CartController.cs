@@ -5,12 +5,14 @@ using PagedList;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Script.Serialization;
 using WebsiteNoiThat.Common;
 using WebsiteNoiThat.Models;
+using QRCoder; // Thêm thư viện QRCoder
 
 namespace WebsiteNoiThat.Controllers
 {
@@ -288,22 +290,47 @@ namespace WebsiteNoiThat.Controllers
             return View(model.ToPagedList(pagenumber, pagesize));
 
         }
-
         public ActionResult Success()
         {
             var session = (UserLogin)Session[WebsiteNoiThat.Common.Commoncontent.user_sesion];
             var cart = Session[CartSession];
             var list = new List<CartItem>();
+            int totalAmount = 0;
+
             if (cart != null)
             {
                 list = (List<CartItem>)cart;
                 ViewBag.Status = "Đã tiếp nhận";
-                ViewBag.ListItem = list;
-                Session["CartSession"] = null;
+
+                // Tính tổng tiền đơn hàng
+                foreach (var item in list)
+                {
+                    totalAmount += (int)(item.Product.Price * item.Quantity - item.Product.Price * item.Product.Discount * 0.01 * item.Quantity);
+                }
+
+                // Tạo URL thanh toán giả định
+                string paymentUrl = "https://paymentgateway.com/pay?orderId=" + Guid.NewGuid().ToString() + "&amount=" + totalAmount;
+
+                // Tạo mã QR từ URL
+                var qrGenerator = new QRCodeGenerator();
+                var qrData = qrGenerator.CreateQrCode(paymentUrl, QRCodeGenerator.ECCLevel.Q);
+                var qrCode = new QRCode(qrData);
+
+                using (var ms = new MemoryStream())
+                {
+                    qrCode.GetGraphic(20).Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+                    byte[] qrImageBytes = ms.ToArray();
+                    ViewBag.QrCodeImage = "data:image/png;base64," + Convert.ToBase64String(qrImageBytes); // Lưu mã QR vào ViewBag
+                }
+
+                Session[CartSession] = null; // Xóa giỏ hàng sau khi đặt hàng thành công
             }
+
+            ViewBag.ListItem = list;
+            ViewBag.TotalAmount = totalAmount;
+
             return View(list);
         }
-
         public ActionResult Error()
         {
             return View();

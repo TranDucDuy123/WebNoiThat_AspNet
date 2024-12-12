@@ -1,21 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\project\\noithat\\WebsiteNoiThat\\",
+  "WorkspaceRootPath": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|d:\\project\\noithat\\websitenoithat\\websitenoithat\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|d:\\project\\noithat\\websitenoithat\\websitenoithat\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\views\\cart\\payby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\cart\\payby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\views\\registerandlogin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\registerandlogin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\noithat\\webnoithat_aspnet\\websitenoithat\\websitenoithat\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\websitenoithat\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|d:\\project\\noithat\\websitenoithat\\websitenoithat\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\websitenoithat\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|d:\\project\\noithat\\websitenoithat\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -26,54 +58,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VnPayLibrary.cs",
-              "DocumentMoniker": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
-              "ToolTip": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "PayBy.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:28:08.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAIAwwNYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:18:52.86Z",
+              "WhenOpened": "2024-12-12T11:24:24.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:22:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAE4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:17:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Register.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Register.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:16:41.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:16:13.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABABAAAAAAAAAAASwCQBAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:15:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:15:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Libraries\\VnPayLibrary.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:18:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PaymentResponseModel.cs",
-              "DocumentMoniker": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
-              "ToolTip": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
               "RelativeToolTip": "WebsiteNoiThat\\Models\\VnPay\\PaymentResponseModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywBMAAAABAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T09:16:53.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "PaymentInformationModel.cs",
-              "DocumentMoniker": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
-              "ToolTip": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
               "RelativeToolTip": "WebsiteNoiThat\\Models\\VnPay\\PaymentInformationModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:16:36.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T09:16:36.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "DocumentMoniker": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Web.config",
-              "ToolTip": "D:\\project\\noithat\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "ToolTip": "E:\\noithat\\WebNoiThat_AspNet\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
               "RelativeToolTip": "WebsiteNoiThat\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
